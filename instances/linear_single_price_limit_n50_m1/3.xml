@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<instance>
+	<info>
+		<dataset>linear_single_price_limit</dataset>
+		<name>3</name>
+		<n>50</n>
+		<m>1</m>
+		<capacity>100</capacity>
+	</info>
+	<items>
+		<item id="1" type="POLYNOMIAL" fixed_cost="38.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1445.01</coefficient>
+				<coefficient degree="1">-13.80</coefficient>
+			</coefficients>
+		</item>
+		<item id="2" type="POLYNOMIAL" fixed_cost="-39.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">431.01</coefficient>
+				<coefficient degree="1">-3.85</coefficient>
+			</coefficients>
+		</item>
+		<item id="3" type="POLYNOMIAL" fixed_cost="58.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">890.01</coefficient>
+				<coefficient degree="1">-8.58</coefficient>
+			</coefficients>
+		</item>
+		<item id="4" type="POLYNOMIAL" fixed_cost="50.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1694.01</coefficient>
+				<coefficient degree="1">-16.41</coefficient>
+			</coefficients>
+		</item>
+		<item id="5" type="POLYNOMIAL" fixed_cost="-83.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">493.01</coefficient>
+				<coefficient degree="1">-4.51</coefficient>
+			</coefficients>
+		</item>
+		<item id="6" type="POLYNOMIAL" fixed_cost="94.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">335.01</coefficient>
+				<coefficient degree="1">-3.06</coefficient>
+			</coefficients>
+		</item>
+		<item id="7" type="POLYNOMIAL" fixed_cost="-74.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1186.01</coefficient>
+				<coefficient degree="1">-11.04</coefficient>
+			</coefficients>
+		</item>
+		<item id="8" type="POLYNOMIAL" fixed_cost="-4.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">171.01</coefficient>
+				<coefficient degree="1">-1.19</coefficient>
+			</coefficients>
+		</item>
+		<item id="9" type="POLYNOMIAL" fixed_cost="-11.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">844.01</coefficient>
+				<coefficient degree="1">-8.07</coefficient>
+			</coefficients>
+		</item>
+		<item id="10" type="POLYNOMIAL" fixed_cost="-43.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1463.01</coefficient>
+				<coefficient degree="1">-14.35</coefficient>
+			</coefficients>
+		</item>
+		<item id="11" type="POLYNOMIAL" fixed_cost="73.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1334.01</coefficient>
+				<coefficient degree="1">-12.80</coefficient>
+			</coefficients>
+		</item>
+		<item id="12" type="POLYNOMIAL" fixed_cost="68.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1999.01</coefficient>
+				<coefficient degree="1">-19.22</coefficient>
+			</coefficients>
+		</item>
+		<item id="13" type="POLYNOMIAL" fixed_cost="77.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">331.01</coefficient>
+				<coefficient degree="1">-2.50</coefficient>
+			</coefficients>
+		</item>
+		<item id="14" type="POLYNOMIAL" fixed_cost="-36.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">714.01</coefficient>
+				<coefficient degree="1">-6.66</coefficient>
+			</coefficients>
+		</item>
+		<item id="15" type="POLYNOMIAL" fixed_cost="-25.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1284.01</coefficient>
+				<coefficient degree="1">-12.58</coefficient>
+			</coefficients>
+		</item>
+		<item id="16" type="POLYNOMIAL" fixed_cost="65.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">355.01</coefficient>
+				<coefficient degree="1">-3.16</coefficient>
+			</coefficients>
+		</item>
+		<item id="17" type="POLYNOMIAL" fixed_cost="-62.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1330.01</coefficient>
+				<coefficient degree="1">-13.10</coefficient>
+			</coefficients>
+		</item>
+		<item id="18" type="POLYNOMIAL" fixed_cost="-70.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">602.01</coefficient>
+				<coefficient degree="1">-5.57</coefficient>
+			</coefficients>
+		</item>
+		<item id="19" type="POLYNOMIAL" fixed_cost="77.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1651.01</coefficient>
+				<coefficient degree="1">-15.73</coefficient>
+			</coefficients>
+		</item>
+		<item id="20" type="POLYNOMIAL" fixed_cost="72.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">108.01</coefficient>
+				<coefficient degree="1">-0.77</coefficient>
+			</coefficients>
+		</item>
+		<item id="21" type="POLYNOMIAL" fixed_cost="-19.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1350.01</coefficient>
+				<coefficient degree="1">-13.27</coefficient>
+			</coefficients>
+		</item>
+		<item id="22" type="POLYNOMIAL" fixed_cost="-84.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">144.01</coefficient>
+				<coefficient degree="1">-1.15</coefficient>
+			</coefficients>
+		</item>
+		<item id="23" type="POLYNOMIAL" fixed_cost="-19.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1200.01</coefficient>
+				<coefficient degree="1">-11.59</coefficient>
+			</coefficients>
+		</item>
+		<item id="24" type="POLYNOMIAL" fixed_cost="-31.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1528.01</coefficient>
+				<coefficient degree="1">-15.02</coefficient>
+			</coefficients>
+		</item>
+		<item id="25" type="POLYNOMIAL" fixed_cost="-23.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1527.01</coefficient>
+				<coefficient degree="1">-14.49</coefficient>
+			</coefficients>
+		</item>
+		<item id="26" type="POLYNOMIAL" fixed_cost="-52.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">265.01</coefficient>
+				<coefficient degree="1">-2.42</coefficient>
+			</coefficients>
+		</item>
+		<item id="27" type="POLYNOMIAL" fixed_cost="60.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">547.01</coefficient>
+				<coefficient degree="1">-5.19</coefficient>
+			</coefficients>
+		</item>
+		<item id="28" type="POLYNOMIAL" fixed_cost="-74.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">924.01</coefficient>
+				<coefficient degree="1">-8.67</coefficient>
+			</coefficients>
+		</item>
+		<item id="29" type="POLYNOMIAL" fixed_cost="64.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1531.01</coefficient>
+				<coefficient degree="1">-14.98</coefficient>
+			</coefficients>
+		</item>
+		<item id="30" type="POLYNOMIAL" fixed_cost="-92.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">808.01</coefficient>
+				<coefficient degree="1">-7.13</coefficient>
+			</coefficients>
+		</item>
+		<item id="31" type="POLYNOMIAL" fixed_cost="22.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1474.01</coefficient>
+				<coefficient degree="1">-13.78</coefficient>
+			</coefficients>
+		</item>
+		<item id="32" type="POLYNOMIAL" fixed_cost="-42.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1339.01</coefficient>
+				<coefficient degree="1">-13.04</coefficient>
+			</coefficients>
+		</item>
+		<item id="33" type="POLYNOMIAL" fixed_cost="11.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1706.01</coefficient>
+				<coefficient degree="1">-16.10</coefficient>
+			</coefficients>
+		</item>
+		<item id="34" type="POLYNOMIAL" fixed_cost="92.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1735.01</coefficient>
+				<coefficient degree="1">-16.40</coefficient>
+			</coefficients>
+		</item>
+		<item id="35" type="POLYNOMIAL" fixed_cost="18.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">418.01</coefficient>
+				<coefficient degree="1">-3.33</coefficient>
+			</coefficients>
+		</item>
+		<item id="36" type="POLYNOMIAL" fixed_cost="-68.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">515.01</coefficient>
+				<coefficient degree="1">-4.63</coefficient>
+			</coefficients>
+		</item>
+		<item id="37" type="POLYNOMIAL" fixed_cost="-9.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">569.01</coefficient>
+				<coefficient degree="1">-5.22</coefficient>
+			</coefficients>
+		</item>
+		<item id="38" type="POLYNOMIAL" fixed_cost="77.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">323.01</coefficient>
+				<coefficient degree="1">-2.70</coefficient>
+			</coefficients>
+		</item>
+		<item id="39" type="POLYNOMIAL" fixed_cost="42.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">931.01</coefficient>
+				<coefficient degree="1">-9.07</coefficient>
+			</coefficients>
+		</item>
+		<item id="40" type="POLYNOMIAL" fixed_cost="44.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1804.01</coefficient>
+				<coefficient degree="1">-17.19</coefficient>
+			</coefficients>
+		</item>
+		<item id="41" type="POLYNOMIAL" fixed_cost="88.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1018.01</coefficient>
+				<coefficient degree="1">-9.38</coefficient>
+			</coefficients>
+		</item>
+		<item id="42" type="POLYNOMIAL" fixed_cost="-86.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">280.01</coefficient>
+				<coefficient degree="1">-2.59</coefficient>
+			</coefficients>
+		</item>
+		<item id="43" type="POLYNOMIAL" fixed_cost="-81.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1114.01</coefficient>
+				<coefficient degree="1">-10.71</coefficient>
+			</coefficients>
+		</item>
+		<item id="44" type="POLYNOMIAL" fixed_cost="-9.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">784.01</coefficient>
+				<coefficient degree="1">-6.89</coefficient>
+			</coefficients>
+		</item>
+		<item id="45" type="POLYNOMIAL" fixed_cost="-98.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1785.01</coefficient>
+				<coefficient degree="1">-17.27</coefficient>
+			</coefficients>
+		</item>
+		<item id="46" type="POLYNOMIAL" fixed_cost="-77.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">140.01</coefficient>
+				<coefficient degree="1">-0.88</coefficient>
+			</coefficients>
+		</item>
+		<item id="47" type="POLYNOMIAL" fixed_cost="-89.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1333.01</coefficient>
+				<coefficient degree="1">-12.67</coefficient>
+			</coefficients>
+		</item>
+		<item id="48" type="POLYNOMIAL" fixed_cost="-23.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1709.01</coefficient>
+				<coefficient degree="1">-16.31</coefficient>
+			</coefficients>
+		</item>
+		<item id="49" type="POLYNOMIAL" fixed_cost="-97.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">656.01</coefficient>
+				<coefficient degree="1">-5.80</coefficient>
+			</coefficients>
+		</item>
+		<item id="50" type="POLYNOMIAL" fixed_cost="-65.00" price_limit="100.00">
+			<coefficients>
+				<coefficient degree="0">1174.01</coefficient>
+				<coefficient degree="1">-11.47</coefficient>
+			</coefficients>
+		</item>
+	</items>
+</instance>
