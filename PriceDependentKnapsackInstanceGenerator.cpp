@@ -16,13 +16,14 @@
 #include <iomanip> 
 #include <algorithm>
 #include <cmath>
-#ifdef LINUX
+
+#ifdef __linux__ 
 #include <sys/stat.h>
 #else
 #include <direct.h>
-#endif // LINUX
+#endif
 
-#include "pugixml/src/pugixml.hpp"
+#include <pugixml.hpp>
 
 using namespace std;
 
@@ -197,7 +198,7 @@ int main(int argc, const char* argv[])
 	string folderName = datasetName + "_n" + to_string(n) + "_m" + to_string(m);
 
 
-#ifdef LINUX
+#ifdef __linux__
 	const int dir_err = mkdir(folderName.c_str(), S_IRWXU | S_IRWXG | S_IROTH | S_IXOTH);
 	if (-1 == dir_err)
 	{
