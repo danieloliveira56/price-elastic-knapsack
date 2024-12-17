@@ -1,4 +1,6 @@
-Code for generating instances used for computational experiments on ["The price-elastic knapsack problem"](https://doi.org/10.1016/j.omega.2023.103003).
+[![DOI:10.1016/ijoc.2023.0055](https://img.shields.io/badge/DOI-j.omega.2023.103003-green?style=flat-square&color=blue)](https://doi.org/10.1016/j.omega.2023.103003)
+
+Code for generating ["The price-elastic knapsack problem"](https://doi.org/10.1016/j.omega.2023.103003) instances for computational experiments.
 
 ### Compilation
 
